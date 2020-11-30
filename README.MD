@@ -5,7 +5,7 @@ A base de treinamento é de 70% do dataset. O dataset também conta com 10 image
 
 Para executar, é necessário instalação do OpenCV:
    ``` 
-   python opencv-contrib-python"
+   python opencv-contrib-python
    ```
 Utilizar Python 3.7 ou superior.
 
@@ -49,5 +49,6 @@ Taxa de acerto:  95.1219512195122 %
 _________________________
 PCA:  20  componentes
 Taxa de acerto:  94.3089430894309 %
+
 Treino:  287  imagens
 Teste:  123  imagens
