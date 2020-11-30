@@ -1,6 +1,6 @@
 ### Reconhecimento Facial com PCA Eigen Faces.
 
-Solicitado pelo Professor Márcio Koch como método de avaliação da disciplina de Aprendizado de Máquina Não Supervisionado, este trabalho utiliza o OpenCV para reconhecimento em um dataset com imagens de rosto.
+Solicitado pelo Professor Márcio Koch como método de avaliação da disciplina de Aprendizado de Máquina Não Supervisionado, este trabalho utiliza a biblioteca OpenCV para reconhecimento em um dataset com imagens de rosto e PCA.
 A base de treinamento é de 70% do dataset. O dataset também conta com 10 imagens pessoais ao final.
 
 Para executar, é necessário instalação do OpenCV:
